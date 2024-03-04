@@ -11,7 +11,7 @@
     <repository>
       <id>github-maven</id>
       <name>ecowalletteam</name>
-      <url>https://maven.pkg.github.com/ecowalletteam/revolutsdk</url>
+      <url>https://maven.pkg.github.com/ecowalletteam/starlingsdk</url>
     </repository>
   </distributionManagement>
   <properties>
